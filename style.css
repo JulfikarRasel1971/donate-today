@@ -10,7 +10,7 @@ body {
 
     background-image: url(images/289309152_1984714301714779_4342481789757306156_n.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:  cover;
 
 }
 
@@ -31,13 +31,13 @@ body {
 
 h1 {
     font-size: 70px;
-    /* color: white; */
+    
 }
 
 .adjust-banner p {
     margin-bottom: 100px;
-    color: white;
-    font-size: 25px;
+    color: black;
+    font-size: 30px;
 }
 
 .donation {
