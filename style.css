@@ -31,7 +31,7 @@ body {
 
 h1 {
     font-size: 70px;
-    color: white;
+    /* color: white; */
 }
 
 .adjust-banner p {
@@ -42,7 +42,7 @@ h1 {
 
 .donation {
     width: 70%;
-    margin: 0 auto;
+    margin: 0 auto 5%;
 }
 
 .donation-info {
@@ -64,10 +64,11 @@ h1 {
 .money {
     width: 20%;
     text-align: center;
-    color: black;
-    background-color: white; 
+    background-color: lightgrey;
     margin-left: 50px;
     margin-right: 50px;
+    font-size: 20px;
+
 }
 
 .red-box {
@@ -78,10 +79,118 @@ h1 {
 
 .amount {
     text-align: center;
-    margin-top: 80%;
+    margin-top: 5%;
+    margin-left: 3%;
+    width: 100%;
+}
+
+#amount-input {
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    border: 0;
+    border-bottom: 1px solid black;
 }
 
 .another-link-buttom {
-    margin-left: 650px;
+    margin-left: 45%;
+    margin-top: 3%;
     color: white;
+}
+
+.donate-type {
+    margin-top: 30px;
+}
+
+.donate-title {
+    text-align: center;
+
+}
+
+.donate-title p {
+    font-size: 25px;
+}
+
+.donation-item {
+    display: flex;
+}
+
+.family-donation {
+    background-color: aqua;
+    padding: 4%;
+    margin-right: 2%;
+    margin-left: 3%;
+    margin-top: 2%;
+
+}
+
+.family-donation p {
+    font-size: 25px;
+}
+
+.food {
+    background-color: lightslategray;
+}
+
+.Shelter {
+    background-color: lightpink;
+}
+
+.Education {
+    background-color: lightsalmon;
+}
+
+.depend-donation-both {
+    display: flex;
+    margin-top: 80px;
+}
+
+.another {
+    width: 50%;
+    margin-left: 4%;
+    margin-right: 4%;
+
+}
+
+.another img {
+    width: 100%;
+}
+
+.depend-donation-title p {
+    font-size: 25px;
+}
+
+.update {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 3%;
+    text-align: center;
+
+}
+
+.last-one p {
+    font-size: 25px;
+}
+
+.email-info {
+    width: 30%;
+    padding: 15px;
+}
+
+.sub-color {
+    background-color: red;
+    padding: 15px;
+}
+
+.another-last {
+    background-color: lightcoral;
+    padding: 5%;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 40px;
 }
