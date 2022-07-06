@@ -1,0 +1,87 @@
+body {
+    font-family: 'Kalam', cursive;
+    font-family: 'Mingzat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.banner {
+
+    background-image: url(images/289309152_1984714301714779_4342481789757306156_n.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.adjust-banner {
+    padding-top: 200px;
+    padding-bottom: 4%;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, Tomato);
+    padding: 10px 40px;
+}
+
+h1 {
+    font-size: 70px;
+    color: white;
+}
+
+.adjust-banner p {
+    margin-bottom: 100px;
+    color: white;
+    font-size: 25px;
+}
+
+.donation {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.donation-info {
+    text-align: center;
+}
+
+.donation-info h1 {
+    color: black;
+}
+
+.donation-info p {
+    font-size: 30px;
+}
+
+.donation-money {
+    display: flex;
+}
+
+.money {
+    width: 20%;
+    text-align: center;
+    color: black;
+    background-color: white; 
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.red-box {
+    background-color: lightpink;
+    border: 2px solid red;
+
+}
+
+.amount {
+    text-align: center;
+    margin-top: 80%;
+}
+
+.another-link-buttom {
+    margin-left: 650px;
+    color: white;
+}
