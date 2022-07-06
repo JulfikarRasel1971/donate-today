@@ -99,6 +99,7 @@ h1 {
     color: white;
 }
 
+
 .donate-type {
     margin-top: 30px;
 }
@@ -160,7 +161,28 @@ h1 {
 .depend-donation-title p {
     font-size: 25px;
 }
+.contact {
+text-align: center;
 
+}
+.contact{
+    margin-top: 4%;
+}
+.contact-info{
+    width: 20%;
+    text-align: center;
+    background-color: lightgrey;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    
+}
+.submit-key{
+    margin-left: 45%;
+    margin-top: 3%;
+    color: white;
+
+}
 .update {
     width: 70%;
     margin: auto;
